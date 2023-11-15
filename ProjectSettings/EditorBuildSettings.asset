@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/C3-Gluttony.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/C4-Greed.unity
+    guid: d31f8c7c40bac3144857f36f2de0ea43
+  - enabled: 1
+    path: Assets/Scenes/C5-Wrath.unity
+    guid: c27dbad0ab32e7942855ea731fda5414
+  m_configObjects: {}
